@@ -1,0 +1,16 @@
+PODS:
+  - Alamofire (3.4.0)
+  - EasyPeasy (0.2.3)
+  - JASON (2.2)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.4)
+  - EasyPeasy
+  - JASON (~> 2.2)
+
+SPEC CHECKSUMS:
+  Alamofire: c19a627cefd6a95f840401c49ab1f124e07f54ee
+  EasyPeasy: 8ffc6502c888220d80cbecb53ca188e772d4ea2a
+  JASON: 0daa2c3ed902ccbfa94d6bb4cb356d252b9607ce
+
+COCOAPODS: 0.39.0
