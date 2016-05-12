@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		35063D6BCE8EE6992F5AAF1C /* Pods.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 633B22C75A1B06C632A66FAF /* Pods.framework */; };
+		3F201FBF1CE473DF0072E7FF /* BaseTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F201FBE1CE473DF0072E7FF /* BaseTableViewController.swift */; };
 		3FF71B561CE4129700BA40F7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FF71B551CE4129700BA40F7 /* AppDelegate.swift */; };
 		3FF71B5B1CE4129700BA40F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FF71B591CE4129700BA40F7 /* Main.storyboard */; };
 		3FF71B5D1CE4129700BA40F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FF71B5C1CE4129700BA40F7 /* Assets.xcassets */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		3F201FBE1CE473DF0072E7FF /* BaseTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseTableViewController.swift; sourceTree = "<group>"; };
 		3FF71B521CE4129700BA40F7 /* onehomeSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = onehomeSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FF71B551CE4129700BA40F7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3FF71B5A1CE4129700BA40F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -125,6 +127,7 @@
 		3FF71B6C1CE4133200BA40F7 /* Common */ = {
 			isa = PBXGroup;
 			children = (
+				3F201FBE1CE473DF0072E7FF /* BaseTableViewController.swift */,
 				3FF71B6D1CE4133200BA40F7 /* BaseViewController.swift */,
 				3FF71B6E1CE4133200BA40F7 /* MainViewController.swift */,
 			);
@@ -317,6 +320,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F201FBF1CE473DF0072E7FF /* BaseTableViewController.swift in Sources */,
 				3FF71B7C1CE4133200BA40F7 /* HomeViewController.swift in Sources */,
 				3FF71B791CE4133200BA40F7 /* CollectionViewController.swift in Sources */,
 				3FF71B561CE4129700BA40F7 /* AppDelegate.swift in Sources */,
